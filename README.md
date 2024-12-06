@@ -7,6 +7,7 @@
 </h1>
 
 **REMT** is a comprehensive toolkit designed for Linux administrators to efficiently configure and manage Rocky Linux servers. This open-source project amalgamates essential tools for remote execution, file transfers, log retrieval, task scheduling, script management, and secure password handling.
+[Demo video🎥✨](https://drive.google.com/file/d/1bToC2uhboa-0roKhjhE-ZFs5Q0wNtgnE/view)
 
 
 <img src="READMEIMAGES/Interfaces/Dashboard.PNG" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
